@@ -1,14 +1,1 @@
-p:first-child {
-	background: blue;
-}
-p:nth-child(2) {
-	background: white;
-}
-p:nth-child(3) {
-	background: red;
-}
-
-img {
-	width : 100%;
-	height:auto;
-}
+.rouge{background:red}.bleu{background:#00f}
