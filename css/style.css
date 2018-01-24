@@ -7,3 +7,8 @@ p:nth-child(2) {
 p:nth-child(3) {
 	background: red;
 }
+
+img {
+	width : 100%;
+	height:auto;
+}
