@@ -1,13 +1,29 @@
-.rouge{background:red}
-.bleu{background:#00f}
 img{width:100%;height:auto;}
 body {
-    background-image:url('http://applicook.fr/iut/images/logo-iut.jpg');
+    background-image:url('../img/logo-iut.jpg');
     background-repeat:no-repeat;
     background-size: 15rem;
     background-position-x: 50%;
     font-size: 100%;
     text-align:justify;
+}
+p {
+    background-image: url('../img/bg.jpg');
+}
+.bleu{
+    overflow:hidden;
+}
+.blanc {
+    background-size: contain;
+}
+.rouge {
+    background-size:cover;
+}
+.jaune {
+    background-size:50px 70px;
+}
+.vert {
+    background-size:100% 100%;
 }
 h1 {
     font-size: 2.5rem;
