@@ -1,0 +1,12 @@
+.body .in img {
+    width:100%;
+}
+
+.body .in {
+  width:80%;
+  margin-left:10%;
+}
+
+.body .in .jeux {
+  display:inline-block;
+}
