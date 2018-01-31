@@ -1,12 +1,61 @@
-.body .in img {
+body {
+    background-color: black;
+    color:white;
+}
+
+.header {
+    border-bottom: solid white 1px;
+}
+
+.header .in {
+    width: 90%;
+    padding-left: 5%;
+}
+
+.header .in img {
+    width:10%;
+}
+
+.header .in a {
+    text-align:right;
+}
+
+.contain .in {
+    width:90%;
+    margin-left:5%;
+    text-align:justify;
+}
+
+.banner {
     width:100%;
 }
 
-.body .in {
-  width:80%;
-  margin-left:10%;
+.contain .in .jeux div {
+    min-height: 10%;
+    display:table-cell;
+    width:20%;
+    padding-right:4%;
+    text-align:center;
 }
 
-.body .in .jeux {
-  display:inline-block;
+.jeux img {
+    display:block;
+    width: 50%;
+    margin-left:25%;
+}
+
+.infos div {
+    display:inline-block;
+    padding:0;
+    margin:0;
+}
+
+.infos div:first-child {
+    border-right:solid white 1px;
+}
+
+.footer {
+    border-top:solid white 1px;
+    text-align:right;
+    margin-top: 5px;
 }
