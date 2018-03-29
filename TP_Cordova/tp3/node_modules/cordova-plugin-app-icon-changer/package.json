@@ -1,0 +1,64 @@
+{
+  "_from": "cordova-plugin-app-icon-changer",
+  "_id": "cordova-plugin-app-icon-changer@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-7y5XJ/TNPP/azE5iNdQPZOODXXw=",
+  "_location": "/cordova-plugin-app-icon-changer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-app-icon-changer",
+    "name": "cordova-plugin-app-icon-changer",
+    "escapedName": "cordova-plugin-app-icon-changer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-app-icon-changer/-/cordova-plugin-app-icon-changer-1.0.0.tgz",
+  "_shasum": "ef2e5727f4cd3cffdacc4e6235d40f64e3835d7c",
+  "_spec": "cordova-plugin-app-icon-changer",
+  "_where": "C:\\Users\\Irthene\\Desktop\\TP_Cordova\\tp3",
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com",
+    "url": "https://github.com/EddyVerbruggen"
+  },
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-app-icon-changer",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Change the homescreen icon of your app from code.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer#readme",
+  "keywords": [
+    "Icon Changer",
+    "Home icon",
+    "icon",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-app-icon-changer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer.git"
+  },
+  "version": "1.0.0"
+}
